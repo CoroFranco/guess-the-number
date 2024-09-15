@@ -1,0 +1,38 @@
+[
+  {
+    "dificultad": "Facil",
+    "intentos": 1
+  },
+  {
+    "dificultad": "Medio",
+    "intentos": 1
+  },
+  {
+    "dificultad": "Medio",
+    "intentos": 2
+  },
+  {
+    "dificultad": "Dificil",
+    "intentos": 5
+  },
+  {
+    "dificultad": "Medio",
+    "intentos": 1
+  },
+  {
+    "dificultad": "Dificil",
+    "intentos": 1
+  },
+  {
+    "dificultad": "Medio",
+    "intentos": 1
+  },
+  {
+    "dificultad": "Facil",
+    "intentos": 9
+  },
+  {
+    "dificultad": "Dificil",
+    "intentos": 1
+  }
+]
